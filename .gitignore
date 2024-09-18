@@ -1,0 +1,5 @@
+MIMIC_III/
+MIMIC_IV/
+**/.ipynb_checkpoints/
+discharge_me/data/
+discharge_me/models/
