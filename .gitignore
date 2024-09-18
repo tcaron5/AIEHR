@@ -4,6 +4,13 @@ MIMIC_IV/
 discharge_me/data/
 discharge_me/models/
 **/config.py
+discharge_me/Notebooks/suzanne_notebooks/data/
+discharge_me/Notebooks/suzanne_notebooks/radiology_sections.csv
+ai_ehr_env_/
+error_prone_dx/
+discharge_me/Notebooks/Dushyant_notebooks/data/
+discharge_me/Notebooks/Dushyant_notebooks/meta-llama/
+discharge_me/Notebooks/Dushyant_notebooks/**/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
