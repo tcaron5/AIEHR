@@ -4,6 +4,7 @@ MIMIC_IV/
 discharge_me/data/
 discharge_me/models/
 discharge_me/Notebooks/troy_notebooks/config.py
+discharge_me/Notebooks/Walid_RAG/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
