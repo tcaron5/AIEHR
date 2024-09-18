@@ -1,0 +1,10 @@
+numpy
+numba
+os
+jsonschema
+pandas
+vllm
+huggingface_hub[cli]
+transformers
+pytorch # could not buil
+nltk bert-score mauve-text rouge-score sacrebleu moverscore
