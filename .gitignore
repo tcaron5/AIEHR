@@ -12,6 +12,14 @@ discharge_me/Notebooks/Dushyant_notebooks/data/
 discharge_me/Notebooks/Dushyant_notebooks/meta-llama/
 discharge_me/Notebooks/Dushyant_notebooks/**/*.csv
 discharge_me/Notebooks/Walid_RAG/
+discharge_me/Notebooks/AWS_archive/**/*.csv
+discharge_me/Notebooks/AWS_archive/submission.zip
+discharge_me/Notebooks/AWS_archive/EHR_Kaggle_EC2 notebooks/*.xlsx
+discharge_me/Notebooks/AWS_archive/EHR_Kaggle_EC2 notebooks/*.pem
+discharge_me/Notebooks/AWS_archive/EHR_Kaggle_EC2 notebooks/data/
+discharge_me/Notebooks/AWS_archive/EHR_Kaggle_EC2 notebooks/LLMs/
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
