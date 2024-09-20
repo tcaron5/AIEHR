@@ -1,0 +1,42 @@
+ hadm_id: 22595853 
+
+
+ "target BHC: ___ HCV cirrhosis c/b ascites, hiv on ART, h/o IVDU, COPD, 
+bioplar, PTSD, presented from OSH ED with worsening abd 
+distension over past week and confusion.  
+
+# Ascites - p/w worsening abd distension and discomfort for last 
+week. likely ___ portal HTN given underlying liver disease, 
+though no ascitic fluid available on night of admission. No 
+signs of heart failure noted on exam. This was ___ to med 
+non-compliance and lack of diet restriction. SBP negative
+diuretics:  
+> Furosemide 40 mg PO DAILY  
+> Spironolactone 50 mg PO DAILY, chosen over the usual 100mg 
+dose d/t K+ of 4.5.   
+ CXR was wnl, UA negative, Urine culture blood culture negative. 
+ 
+Pt was losing excess fluid appropriately with stable lytes on 
+the above regimen. Pt was scheduled with current PCP for 
+___ check upon discharge.   
+Pt was scheduled for new PCP with Dr. ___ at ___ and 
+follow up in Liver clinic to schedule outpatient screening EGD 
+and ___.   
+" , 
+
+
+"target discharge_instructions: Dear Ms. ___,
+It was a pleasure taking care of you! You came to us with 
+stomach pain and worsening distension. While you were here we 
+did a paracentesis to remove 1.5L of fluid from your belly. We 
+also placed you on you 40 mg of Lasix and 50 mg of Aldactone to 
+help you urinate the excess fluid still in your belly. As we 
+discussed, everyone has a different dose of lasix required to 
+make them urinate and it's likely that you weren't taking a high 
+enough dose. Please take these medications daily to keep excess 
+fluid off and eat a low salt diet. You will follow up with Dr. 
+___ in liver clinic and from there have your colonoscopy 
+and EGD scheduled. Of course, we are always here if you need us. 
+We wish you all the best!
+Your ___ Team.
+ "

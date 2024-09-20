@@ -1,0 +1,75 @@
+ hadm_id: 27897940 
+
+
+ "target BHC: Mr. ___ is an ___ with history of AAA s/p repair 
+complicated by MI, hypertension, and hyperlipidemia who 
+presented with nasal fractures and epistaxis after mechanical 
+fall with hospital course complicated by NSTEMI.
+
+#Epistaxis, nasal fractures
+Patient presenting after mechanical fall with Rhinorockets 
+placed at outside hospital for ongoing epistaxis. CT scan from 
+that hospital demonstrated nasal bone and septal fractures. The 
+Rhinorockets were maintained while inpatient and discontinued 
+prior to discharge. He was encouraged to use oxymetolazone nasal 
+spray and hold pressure should bleeding reoccur. 
+
+#NSTEMI
+Patient found to have mild elevation of troponin in the ED. This 
+was trended and eventually rose to 1.5, though MB component 
+downtrended during course of admission. The patient was without 
+chest pain or other cardiac symptoms. Cardiology was consulted 
+who thought that this was most likely secondary to demand 
+ischemia (type II MI) secondary to his fall. An echocardiogram 
+demonstrated aortic stenosis and likely distal LAD disease based 
+on wall motion abnormalities. The patient's metoprolol was 
+uptitrated, his pravastatin was converted to atorvastatin, his 
+clopidogrel was maintained, and he was started on aspirin.
+
+#Hypoxemia/L basilar consolidation
+Patient reported to be mildly hypoxic in the ED, though he 
+maintained normal oxygen saturations on room air. He denied 
+shortness of breath or cough, fevers, or other infectious 
+symptoms and had no leukocytosis. A CXR revealed consolidation 
+in left lung, thought to be possibly related to aspirated blood. 
+-monitor O2 saturation, temperature, trend WBC. He was convered 
+with antibiotics while inpatient as he required prophylaxis for 
+the Rhinorockets, but this was discontinued upon discharge.
+
+#Acute kidney injury
+Patient presented with creatinine of 1.5 with last creatinine at 
+PCP 1.8. Patient was unaware of a history of kidney disease. The 
+patient was discharged with a stable creatinine.
+
+#Peripheral vascular disease
+Patient had a history of AAA repair in ___ without history of 
+MI per PCP. Patient denied history of CABG or cardiac/peripheral 
+stents. A cardiac regimen was continued, as above.
+
+TRANSITIONAL ISSUES
+-Outpatient stress echo for futher evaluation distal LAD disease 
+(possibly a large myocardial territory at risk). 
+-Repeat echocardiogram in ___ years to monitor mild AS/AR.
+-If epistaxis returns, can use oxymetolazone nasal spray.
+-Repeat chest x-ray in ___ weeks to ensure resolution of the LLL 
+infiltrative process.
+-Consider follow-up with ENT or Plastic Surgery for later 
+evaluation of nasal fractures.
+-Repeat CBC in one week to ensure stability of HCT and 
+platelets.
+-Consider conversion of metoprolol tartrate to succinate for 
+ease-of-administration.
+" , 
+
+
+"target discharge_instructions: Mr. ___,
+You were admitted after you fell and broke your nose. You had 
+nose bleeds that were difficult to control, thus plugs were 
+placed in your nose to stop the bleeding. During your hospital 
+course, you were found to have high troponins, a blood test for 
+the heart. A ultrasound of your heart was performed. You should 
+follow-up with your PCP to discuss stress test.
+
+It was a pleasure participating in your care, thank you for 
+choosing ___.
+ "
