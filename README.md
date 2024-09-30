@@ -35,15 +35,12 @@ These papers provide insights into the state-of-the-art methods we explore in ou
 
 
 ## Contribution Guidelines
-
 To maintain consistency and collaboration across our team, please follow these practices when editing and contributing to this repository:
-
 ### 1. Branching
 - Always work on a **new branch** for any changes. Name your branch based on the feature, fix, or task you are addressing.
 - Use the following command to create a new branch:
   ```bash
   git checkout -b your-branch-name
-  
 ### 2. After making changes
 - Write clear and concise **commit messages** that describe the changes you've made.
   ```bash
@@ -52,6 +49,7 @@ To maintain consistency and collaboration across our team, please follow these p
 ### 3. Push the branch:
   ```bash
   git push origin your-branch-name
+  ```
 ### 4. Creating a pull request:
 - Go to the repository on github.
 - Before submitting a pull request, ensure your changes are tested and documented.
@@ -61,6 +59,6 @@ To maintain consistency and collaboration across our team, please follow these p
   ```bash
   git checkout main
   git pull origin main
+  ```
 ### 6. Delete the branch (optional):
   ```bash
-  git branch -d your-branch-name
