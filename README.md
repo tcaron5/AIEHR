@@ -62,3 +62,4 @@ To maintain consistency and collaboration across our team, please follow these p
   ```
 ### 6. Delete the branch (optional):
   ```bash
+  git branch -d your-branch-name
